@@ -1,0 +1,1 @@
+Create custom speech files which allow you to do text-to-speech of any document using your own (or any other) voice.Scripts automatically take in voice, parses it into words, and creates voice files for you. Voice files can then be used withthe text-to-speech linker.
